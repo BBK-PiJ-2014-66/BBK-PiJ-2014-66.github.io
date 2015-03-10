@@ -1,1 +1,1 @@
-# BBK-PiJ-2016-66.github.io
+For serving static pages (like JavaDoc) see https://pages.github.com/
